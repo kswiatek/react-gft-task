@@ -1,0 +1,7 @@
+.weatherBox {   
+    background-color: aquamarine;
+    padding: 10px;
+}
+/*
+prosty component a nie container, to można użyć tylko weatherBox jako nazwa klasy, bez innych dodatków
+*/

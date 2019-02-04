@@ -1,0 +1,18 @@
+.showForCurrentLocation__weatherContainer,
+.showForCustomLocation__weatherContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70%;
+    margin: 0 auto;
+}
+.showForCurrentLocation__locationBox,
+.showForCustomLocation__locationBox {
+    background-color: greenyellow;
+    padding: 10px;
+}
+
+.showForCurrentLocation__weatherDataBox {
+    background-color: aquamarine;
+    padding: 10px;
+}
